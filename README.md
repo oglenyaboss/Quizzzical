@@ -78,9 +78,9 @@ To contribute to this project, follow these steps:
 
 ## License
 
-This project uses the [MIT License](LICENSE).
+This project uses the [MIT License](LICENSE.md).
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 
 ## Contact
 
