@@ -1,3 +1,6 @@
+<img src="Readme1.png"/>
+<img src="Readme2.png"/>
+
 # Quizzzical
 
 Quizzzical is a web-based quiz application that allows you to test your knowledge in various subjects. Whether you're a trivia enthusiast or looking to learn something new, Quizzzical has got you covered.
